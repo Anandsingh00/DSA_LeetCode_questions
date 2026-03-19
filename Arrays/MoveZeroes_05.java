@@ -1,6 +1,6 @@
 package Arrays;
 
-public class MoveZeroes_03 {
+public class MoveZeroes_05 {
     public static void moveZeroes(int []arr) {
         int i = 0, j = 0;
         while(i < arr.length){
